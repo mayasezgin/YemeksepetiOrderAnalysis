@@ -22,25 +22,25 @@ By combining these two data sources, the dataset allows us to analyze the impact
 ## Project Idea 
 This project which is for my DSA210 (Introduction to Data Science) course aims to analyze the increase in weekend orders on Yemeksepeti and investigate its connection to academic workload during weekdays. The hypothesis is that:
 
-- Weekend orders are influenced by the need to relax after a busy week of academic stress.
+- Weekend food orders are significantly higher than weekday orders due to reduced academic workload and the need for relaxation.
 
 The project will provide insights into how external factors influence food ordering behavior.
 
 ## Plan 
-1. **Data Preparation:** 
+1. **Data Preparation(Dec 1 - Dec 10):** 
 - Clean and structure the dataset. 
 - Add new features, such as weekday/weekend classification and derived metrics. 
-2. **Data Analysis:** 
+2. **Data Analysis(Dec 11 - Dec 20):** 
 - Perform exploratory data analysis (EDA) to identify trends and patterns.
 - Compare order counts and spending between weekdays and weekends.
-3. **Hypothesis Testing:** 
+3. **Hypothesis Testing(Dec 21 - Dec 31):** 
 - Test if weekend orders are statistically higher than weekday orders.
 - Analyze correlations between academic workload and ordering behavior. 
-4. **Visualization:**
+4. **Visualization(Jan 1- Jan 8):**
 - Use graphs and charts to illustrate:
   - Order trends by day. 
   - Spending patterns. 
   - Popular cuisines. 
-5. **Reporting:** 
+5. **Reporting(Jan 9 - Jan 10):** 
 - Summarize findings and provide actionable insights. 
 - Include visualizations to support conclusions.
