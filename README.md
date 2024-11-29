@@ -38,9 +38,9 @@ The project will provide insights into how external factors influence food order
 - Analyze correlations between academic workload and ordering behavior. 
 4. **Visualization:**
 - Use graphs and charts to illustrate:
-- - Order trends by day. 
-- - Spending patterns. 
-- - Popular cuisines. 
+  - Order trends by day. 
+  - Spending patterns. 
+  - Popular cuisines. 
 5. **Reporting:** 
 - Summarize findings and provide actionable insights. 
 - Include visualizations to support conclusions.
