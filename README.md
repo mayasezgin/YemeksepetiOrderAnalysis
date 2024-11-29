@@ -5,17 +5,17 @@ The dataset in this project is derived from two main sources:
 
 1. **Yemeksepeti Order History:** My personal data from past food orders, including:
    
-   -**Order Date and Time:** The exact time when an order was placed.
+-**Order Date and Time:** The exact time when an order was placed.
    
-   -**Order Type:** The cuisine type (e.g. kebab, pizza).
+-**Order Type:** The cuisine type (e.g. kebab, pizza).
    
-   -**Order Amount:** The total cost of each order.
+-**Order Amount:** The total cost of each order.
    
-   -**Day Classification:** Weekday or weekend.
+-**Day Classification:** Weekday or weekend.
    
 2. **Academic Calendar:** Personal academic workload data, including:
-   -**Class Schedule:** Weekly academic commitments.
-   -**Exam Period:** Dates and times of exams or intensive study periods.
+-**Class Schedule:** Weekly academic commitments.
+-**Exam Period:** Dates and times of exams or intensive study periods.
 
 By combining these two data sources, the dataset allows us to analyze the impact of academic workload on food ordering behavior, particularly focusing on weekend order patterns.
 
