@@ -37,10 +37,10 @@ The project will provide insights into how external factors influence food order
 - Test if weekend orders are statistically higher than weekday orders.
 - Analyze correlations between academic workload and ordering behavior. 
 4. **Visualization:**
-- Use graphs and charts to illustrate: 
- - Order trends by day. 
- - Spending patterns. 
- - Popular cuisines. 
+- Use graphs and charts to illustrate:
+- - Order trends by day. 
+- - Spending patterns. 
+- - Popular cuisines. 
 5. **Reporting:** 
 - Summarize findings and provide actionable insights. 
 - Include visualizations to support conclusions.
