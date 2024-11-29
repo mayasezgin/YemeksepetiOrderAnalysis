@@ -28,7 +28,8 @@ The project will provide insights into how external factors influence food order
 - Clean and structure the dataset. 
 - Add new features, such as weekday/weekend classification and derived metrics. 
 2. **Data Analysis:** 
-- Perform exploratory data analysis (EDA) to identify trends and patterns. -Compare order counts and spending between weekdays and weekends.
+- Perform exploratory data analysis (EDA) to identify trends and patterns.
+- Compare order counts and spending between weekdays and weekends.
 3. **Hypothesis Testing:** 
 - Test if weekend orders are statistically higher than weekday orders.
 - Analyze correlations between academic workload and ordering behavior. 
