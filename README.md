@@ -1,5 +1,8 @@
 # YemeksepetiOrderAnalysis
 
+## Motivation
+ Food ordering platforms like Yemeksepeti play a significant role in modern lifestyles, especially for students managing academic responsibilities. As a student with a busy academic schedule, I observed a pattern of increased food orders during weekends, which seemed to be influenced by the need to relax after a stressful week.
+ 
 ## Dataset Description 
 The dataset in this project is derived from two main sources:
 
