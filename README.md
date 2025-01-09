@@ -10,7 +10,6 @@ The dataset in this project is derived from two main sources (covering the data 
    
 - **Order Date and Time:** The exact time when an order was placed. 
 - **Order Type:** The cuisine type (e.g., pizza, kebab, sushi). 
-- **Order Amount:** The total cost of each order. 
 - **Day Classification:** Categorization as weekday or weekend. 
    
 2. **Academic Calendar:** Personal academic workload data, including:
