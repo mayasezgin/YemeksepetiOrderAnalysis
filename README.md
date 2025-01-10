@@ -75,7 +75,7 @@ The project will provide insights into how external factors influence food order
 - **`results/`**: Contains analysis results and visualizations.
   - Order trends and spending pattern graphs.
 - **`presentation/`**: Contains the project presentation.
-  - [yemeksepetiorderanalysisslides.pptx](presentation/yemeksepetiorderanalysisslides.pptx): Final project slides.
+  - Final project slides.
 
 ---
 
