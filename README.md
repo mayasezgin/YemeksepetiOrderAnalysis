@@ -54,7 +54,18 @@ The project will provide insights into how external factors influence food order
    - Include visualizations to support conclusions.
 
 ---
+##  Findings
+### Key Insights:
+1. **Weekend Orders**: 
+   - Weekend food orders are significantly higher than weekday orders. Statistical analysis (two-sample t-test) revealed a **p-value of 0.0058**, rejecting the null hypothesis.
+   
+2. **Impact of Academic Workload**:
+   - Weekday academic schedules suppress ordering behavior, while weekends show a relaxation-driven increase.
+   
+3. **Exam Periods**:
+   - A slight relaxation effect is observed in ordering patterns during and immediately after exam periods.
 
+---
 
 ##  Project Structure
 - **`data/`**: Contains the dataset.
