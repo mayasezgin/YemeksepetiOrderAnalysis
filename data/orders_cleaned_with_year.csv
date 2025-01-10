@@ -1,1 +1,101 @@
-
+Date,Weekday,Order ID,Price (TL),Items
+2024-12-29 10:58:00,Sunday,dwqb-2452-2wjk,36899.0,"1x Tavuklu Wrap,1x Iced Vanilla Latte"
+2024-12-28 11:26:00,Saturday,d09s-2452-q0c8,49199.0,"1x Kekiklim,1x Beş Baharatlı Patates Kızartması (Büyük)"
+2024-12-27 10:40:00,Friday,dbex-5wnu,53000.0,1x Meksika Bowl
+2024-12-24 16:22:00,Tuesday,f8yu-2452-ficm,30000.0,"1x Flamin' Hot Doritos'lu Mega Çiğ Köfte Dürüm Menü,1x Çiğ Köfte Menü (200 gr.)"
+2024-12-22 20:10:00,Sunday,mhcx-2451-q9qh,47100.0,"1x Xtreme Kutu,1x Gravy Sos (Adet)"
+2024-12-22 11:13:00,Sunday,ujda-2451-val6,21900.0,1x Karışık Kumpir
+2024-12-21 19:31:00,Saturday,bsvm-2451-i1nk,57750.0,1x Çıtır Bihter
+2024-12-21 10:35:00,Saturday,dwqb-2451-yl44,34399.0,"1x Tavuklu Wrap,1x Iced Caffè Latte"
+2024-12-20 12:47:00,Friday,dbex-ma4j,95400.0,"1x Yeşil Mercimekli Kinoalı Makarna,1x Tatlı Patates Kızartması"
+2024-12-19 21:12:00,Thursday,bnnt-2451-dpft,89000.0,"1x Adana Usulü Lahmacun (Orta Boy) (5 Adet),1x Ezme Salata,1x Haydari"
+2024-12-18 15:27:00,Wednesday,l874-32ny,28500.0,1x Whopper® Menü
+2024-12-16 14:03:00,Monday,awg8-2451-h1xi,34000.0,1x Kekiklim
+2024-12-15 17:19:00,Sunday,f8yu-2450-e953,17900.0,"1x Flamin' Hot Doritos'lu Mega Çiğ Köfte Dürüm,1x Komagene Ayran (27 cl.)"
+2024-12-14 17:54:00,Saturday,mhcx-2450-0ob5,46700.0,"1x Xtreme Kutu,1x Gravy Sos (Adet)"
+2024-12-10 15:34:00,Tuesday,l874-a0wf,24000.0,1x Whopper® Menü
+2024-11-25 19:19:00,Monday,unx1-yo77,1.03,"1x Corn Tempura,1x 8A. Kızarmış Çin Mantısı (4 Adet),1x Tatlı Acı Soslu Kore Usulü Tavuk Bun"
+2024-11-24 19:05:00,Sunday,bsvm-2447-o6f9,57750.0,1x Çıtır Bihter
+2024-11-20 00:28:00,Wednesday,g1km-x3bf,37315.0,"1x Hot Chicken Crispy Burger,1x Özerhisar Ayran (24.5 cl.),1x Sweet Chili Sos"
+2024-11-17 22:08:00,Sunday,bsvm-2446-3ah1,96250.0,"1x Karışık Mantı,1x Çıtır Bihter"
+2024-11-17 12:29:00,Sunday,dbex-o24l,1.259,"1x Tatlı Patates Kızartması,1x Kabak Spaghetti,1x Tortilla Cipsi"
+2024-11-15 17:54:00,Friday,f8yu-2446-gqh8,15099.0,"1x Flamin' Hot Doritos'lu Mega Çiğ Köfte Dürüm,1x Komagene Ayran (27 cl.)"
+2024-11-12 22:59:00,Tuesday,bsvm-2446-xl1w,57750.0,1x Çıtır Bihter
+2024-11-10 20:13:00,Sunday,awg8-2445-l10u,66299.0,"1x Bi'Köri,1x Chili Lokumu (Hafif Acı)"
+2024-10-31 10:17:00,Thursday,dwqb-2444-wf6l,38699.0,"1x Izgara Tavuklu Salata,1x Cool Lime Refresha®"
+2024-10-29 21:44:00,Tuesday,bsvm-2444-vth5,38500.0,1x Çıtır Bihter
+2024-10-26 19:55:00,Saturday,xxts-2rhr,31699.0,1x Et Şiş Dürüm
+2024-10-26 15:46:00,Saturday,f8yu-2443-shly,14599.0,"1x Dürüm Menü,1x Komagene Ayran (27 cl.)"
+2024-10-25 18:29:00,Friday,mhcx-2443-fwmd,46200.0,"1x Xtreme Kutu,1x Gravy Sos (Adet)"
+2024-10-19 11:57:00,Saturday,v2kc-2442-ku05,65299.0,2x Chili Lokumu (Hafif Acı)
+2024-10-13 20:38:00,Sunday,suvq-tc44,67500.0,"1x Waffle (Sandviç),1x Waffle (Açık),1x Vanilyalı Dondurma (250 gr.)"
+2024-10-13 11:14:00,Sunday,dwqb-2441-1pln,17399.0,1x Iced Caffè Latte
+2024-10-12 10:49:00,Saturday,dbex-3nal,44000.0,1x Tavuk Taco Bowl
+2024-10-10 19:19:00,Thursday,l874-dekh,29300.0,"1x Whopper® Menü,1x Buffalo Sos"
+2024-09-30 11:51:00,Monday,v2kc-2440-28fw,33699.0,1x Chili Lokumu (Hafif Acı)
+2024-09-28 19:44:00,Saturday,vrvy-48ns,54360.0,"1x Cajun Avantaj Sepet Menü (2 Kişilik),1x Sweet Chili Sos"
+2024-09-28 10:32:00,Saturday,dbex-36fu,44000.0,1x Tavuk Taco Bowl
+2024-09-19 13:38:00,Thursday,dbex-2bbd,44000.0,"1x Tavuk Taco Bowl, Siparişi Tekrarla"
+2024-09-17 20:55:00,Tuesday,wpfm-2438-dh6a,57800.0,"1x Pilav Üstü Et Döner,1x Çoban Salata, Siparişi Tekrarla"
+2024-09-16 19:45:00,Monday,ujda-2438-rju4,37500.0,"1x Karışık Kumpir,1x Karışık Kumpir"
+2024-09-16 14:30:00,Monday,v2kc-2438-k7ef,33699.0,1x Chili Lokumu (Hafif Acı)
+2024-09-14 19:43:00,Saturday,l874-o9yn,55000.0,"1x Kral İkili,1x Whopper® Menü"
+2024-09-14 14:50:00,Saturday,dbex-6u6s,41000.0,1x Meksika Bowl
+2024-09-13 16:01:00,Friday,v2kc-2437-a9h5,33699.0,1x Chili Lokumu (Hafif Acı)
+2024-09-12 23:48:00,Thursday,qywy-2437-508x,19200.0,"1x Doritos'lu Mega Çiğ Köfte Dürüm Menü,1x Acılı Ezme (150 gr.)"
+2024-09-11 18:16:00,Wednesday,qywy-2437-e684,35750.0,"1x Doritos'lu Mega Çiğ Köfte Dürüm Menü,1x Doritos'lu Mega Çiğ Köfte Dürüm Menü,1x Çiğ Köfte (200 gr.)"
+2024-09-11 12:43:00,Wednesday,dbex-5woo,41000.0,1x Meksika Bowl
+2024-09-10 14:09:00,Tuesday,v2kc-2437-8xro,33699.0,1x Chili Lokumu (Hafif Acı)
+2024-07-26 17:07:00,Friday,nf7f-bok3,25075.0,1x İskender (Tavuk Dönerden)
+2024-07-17 14:02:00,Wednesday,arxy-2429-4pda,51750.0,"1x Acılı Moon Burger,1x Acı Sos,1x Ballı Hardal"
+2024-06-30 21:51:00,Sunday,bsvm-2426-lveg,82000.0,"1x Haşlama Esmer Mantı,1x Çıtır Bihter"
+2024-06-30 13:54:00,Sunday,v2kc-2426-lm8c,37500.0,"1x Domates Çorbası,1x Kekiklim"
+2024-06-29 17:57:00,Saturday,bsvm-2426-lmwx,49500.0,1x Çıtır Bihter
+2024-06-29 12:47:00,Saturday,rm7x-2426-lzl7,36500.0,"1x Tavuk Suyu Çorbası,1x Pirinç Pilavı,1x Cacık"
+2024-06-28 22:16:00,Friday,f8yu-2426-zi8t,25400.0,"1x Doritos'lu Mega Çiğ Köfte Dürüm Menü,1x Komagene Şuşi (Doritoslu),1x Komagene Ayran (27 cl.)"
+2024-06-28 11:56:00,Friday,v2kc-2426-8qx1,42499.0,"1x Süzme Mercimek Çorbası,1x Chili Lokumu (Hafif Acı)"
+2024-06-21 14:54:00,Friday,bsvm-2425-og0m,49500.0,1x Çıtır Bihter
+2024-06-20 23:57:00,Thursday,f8yu-2425-ax6t,25449.0,"1x Doritos'lu Mega Çiğ Köfte Dürüm Menü,1x Çiğ Köfte (200 gr.)"
+2024-06-20 14:07:00,Thursday,dbex-pddj,35500.0,1x Meksika Bowl
+2024-06-11 16:18:00,Tuesday,uvu4-2424-03d3,35000.0,1x Waffle
+2024-06-11 11:30:00,Tuesday,dbex-zlqn,35500.0,1x Meksika Bowl
+2024-05-31 00:49:00,Friday,bsvm-nrfr,45750.0,1x Çıtır Bihter
+2024-05-26 22:59:00,Sunday,bnnt-hots,87500.0,"1x Adana Usulü Lahmacun (Orta Boy) (5 Adet),1x Ezme Salata,1x Haydari"
+2024-05-25 16:15:00,Saturday,dbex-gtv9,29500.0,1x Körili Tavuklu Bowl
+2024-05-23 22:00:00,Thursday,f8yu-xjkr,23300.0,"1x Doritos'lu Mega Çiğ Köfte Dürüm Menü,1x Çiğ Köfte (200 gr.)"
+2024-05-17 15:51:00,Friday,lpq2-8i3t,64205.0,"1x Yellow Burger Menü,1x Soğan Halkası (4 Adet),1x Green Burger Menü"
+2024-05-12 10:08:00,Sunday,jtji-tvbx,37500.0,"1x Mercimek Çorbası,1x Peynirli Su Böreği"
+2024-05-11 19:00:00,Saturday,e68t-aihx,25300.0,1x Waffle Mix
+2024-05-11 15:47:00,Saturday,v2kc-84x5,29000.0,1x Kekiklim
+2024-05-11 09:50:00,Saturday,dwqb-5j63,27500.0,"1x Limonlu Cheesecake,1x Iced Caffè Americano"
+2024-04-27 23:48:00,Saturday,f8yu-7sbp,39500.0,"1x Komagene Şuşi (Doritoslu),1x Flamin' Hot Doritos'lu Çiğ Köfte Dürüm Menü,1x Dürüm Menü"
+2024-04-27 17:42:00,Saturday,v2kc-tbqu,29000.0,1x Kekiklim
+2024-03-23 16:32:00,Saturday,dbex-pa83,31950.0,"1x Meksika Bowl,1x Soda (20 cl.)"
+2024-03-17 12:14:00,Sunday,dbex-avv7,29250.0,1x Meksika Bowl
+2024-03-13 18:10:00,Wednesday,vrvy-o5ou,47160.0,"1x Cajun Roll Menü,1x Acılı Cajun Sepet Menü,1x Sweet Chili Sos"
+2024-03-10 12:03:00,Sunday,v2kc-47xa,25500.0,1x Chili Lokumu
+2024-02-25 17:54:00,Sunday,v2kc-asvs,25000.0,1x Kekiklim
+2024-02-25 13:40:00,Sunday,jtji-9aak,14299.0,1x Mercimek Çorbası
+2024-02-24 10:49:00,Saturday,dbex-bks9,28350.0,1x Tavuk Taco Bowl
+2024-02-18 12:22:00,Sunday,ncjv-vhwj,20899.0,1x Adana Dürüm
+2024-02-17 20:37:00,Saturday,f8yu-xxx2,10049.0,1x Doritos'lu Çiğ Köfte Dürüm Menü
+2024-02-17 13:17:00,Saturday,v2kc-fqqp,25500.0,1x Chili Lokumu (Az Acı)
+2024-02-14 15:26:00,Wednesday,ojcl-frkv,21600.0,1x Çıtır Mantı
+2024-02-13 12:00:00,Tuesday,dbex-mo11,29250.0,1x Meksika Bowl
+2024-01-26 13:49:00,Friday,dbex-dr32,17050.0,1x Sezar Salata
+2024-01-24 18:40:00,Wednesday,v2kc-1lq9,23799.0,1x Chili Lokumu (Az Acı)
+2024-01-23 14:01:00,Tuesday,dbex-bx9p,28350.0,1x Tavuk Taco Bowl
+2024-01-22 11:17:00,Monday,jtji-6enw,15199.0,1x Mercimek Çorbası
+2024-01-21 15:57:00,Sunday,ncjv-h7ou,37799.0,"1x Sarma Beyti Kebap,1x Acılı Ezme"
+2024-01-20 16:34:00,Saturday,v2kc-9nqq,52299.0,"1x Kekiklim,1x Chili Lokumu (Az Acı),1x Beş Baharatlı Patates Kızartması (Orta)"
+2024-01-19 11:52:00,Friday,dbex-4zt2,26050.0,"1x Meksika Bowl,1x Coca-Cola Zero Sugar (33 cl.)"
+2024-01-15 18:05:00,Monday,v2kc-tq57,35799.0,"1x Kekiklim,1x Beş Baharatlı Patates Kızartması (Orta),1x Coca-Cola (33 cl.)"
+2024-01-15 12:05:00,Monday,jtji-nhjg,15199.0,1x Mercimek Çorbası
+2024-01-14 18:07:00,Sunday,v2kc-iiwv,23799.0,1x Kekiklim
+2024-01-14 12:02:00,Sunday,dwqb-3nuk,22899.0,"1x Limonlu Cheesecake,1x Toffee Nut Latte"
+2024-01-13 21:18:00,Saturday,lpq2-jetv,27200.0,"1x Yellow Burger Menü,1x Soğan Halkası (8 Adet)"
+2024-01-13 12:02:00,Saturday,dbex-i4re,26550.0,1x Meksika Bowl
+2024-01-12 10:32:00,Friday,dwqb-ijqg,22899.0,"1x Tavuklu Wrap,1x Toffee Nut Latte"
+2024-01-11 16:45:00,Thursday,dwqb-9g1f,16699.0,"1x Toffee Nut Latte,1x San Pellegrino (25 cl.)"
+2024-01-11 14:20:00,Thursday,wpfm-q2qo,35100.0,1x Pilav Üstü Et Döner
+2024-01-10 11:37:00,Wednesday,dbex-ozdy,24750.0,1x Meksika Bowl
